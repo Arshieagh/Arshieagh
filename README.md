@@ -41,7 +41,7 @@ Check out some of my favorite projects:
 I love exploring cutting-edge technologies and solving problems through code!
 
 ## 📫 How to reach me
-- 📧 Email: [your.email@example.com](mailto:arsheagh@gmail.com)
+- 📧 Email: [Email Me](mailto:arsheagh@gmail.com)
 - 🌐 [LinkedIn](#)
 - 💬 [Twitter](#)
 
